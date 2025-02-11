@@ -152,7 +152,7 @@ ol {
     transform: translateX(-50%);
     width: 90px;
     height: 90px;
-    background: url(../img/core-img/shape1.png) no-repeat;
+    background: url(shape1.png) no-repeat;
 }
 #preloader {
     position: fixed;
@@ -412,7 +412,7 @@ ol {
     transform: translateX(-50%);
     height: 300px;
     width: 100%;
-    background: url(../img/core-img/wave-shap.png) no-repeat center right;
+    background: url(wave-shap.png) no-repeat center right;
     background-size: contain;
 }
 .relative{
@@ -816,27 +816,27 @@ ol {
 
 .main-ilustration{
     position: relative;
-    background: url(../img/core-img/hero-bg.png) no-repeat center 65%;
+    background: url(hero-bg.png) no-repeat center 65%;
     height: 100vh;
     background-size: contain;
 }
 .main-ilustration-2{
     position: relative;
-    background: url(../img/core-img/robot-1.html) no-repeat center bottom;
+    background: url(robot-1.html) no-repeat center bottom;
     height: 100vh;
     bottom: 0;
     background-size: contain;
 }
 .main-ilustration-3{
     position: relative;
-    background: url(../img/core-img/robot-2.html) no-repeat center bottom;
+    background: url(robot-2.html) no-repeat center bottom;
     height: 100vh;
     bottom: 0;
     background-size: cover;
 }
 .main-ilustration-4{
     position: relative;
-    background: url(../img/core-img/head-bg-1.png) no-repeat center 65%;
+    background: url(head-bg-1.png) no-repeat center 65%;
     height: 100vh;
     background-size: cover;
     animation: floating2 7s infinite;
